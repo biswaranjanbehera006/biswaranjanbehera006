@@ -5,7 +5,7 @@
   <a href="mailto:biswaranjanbehera006@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a>
-  <a href="https://www.linkedin.com/in/biswaranjanbehera006/" target="_blank">
+  <a href="https://www.linkedin.com/in/biswa-ranjan-behera/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
 </p>
@@ -62,6 +62,6 @@
 ### 🔗 Let's Connect
 
 - 📧 **Email:** biswaranjanbehera006@gmail.com  
-- 🔗 **LinkedIn:** [linkedin.com/in/biswaranjanbehera006](https://www.linkedin.com/in/biswaranjanbehera006/)
+- 🔗 **LinkedIn:** [linkedin.com/in/biswaranjanbehera006](https://www.linkedin.com/in/biswa-ranjan-behera/)
 
 ---
