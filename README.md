@@ -1,23 +1,28 @@
 <h1 align="center">Hi 👋, I'm Biswa Ranjan Behera</h1>
-<h3 align="center">A passionate Web Developer | Currently learning MERN Stack</h3>
+<h3 align="center">Web Developer | Currently learning MERN Stack</h3>
 
 <p align="center">
-  <a href="mailto:biswaranjanbehera006@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/biswaranjanbehera006/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:biswaranjanbehera006@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+  </a>
+  <a href="https://www.linkedin.com/in/biswaranjanbehera006/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
 </p>
 
 ---
 
 ### 🚀 About Me
+
 - 🌱 I’m currently learning **MERN Stack**  
-- 👨‍💻 I’m a **Web Developer** who enjoys building modern, responsive web apps  
-- 💬 Ask me about **React, JavaScript, Node.js, HTML/CSS**  
-- 📫 How to reach me: **biswaranjanbehera006@gmail.com**  
-- ⚡ Fun fact: I love turning ideas into beautiful digital solutions ✨
+- 👨‍💻 Passionate about building full-stack web applications  
+- 💬 Ask me about **React, Node.js, MongoDB, JavaScript, HTML, CSS**  
+- 📫 Reach me at **biswaranjanbehera006@gmail.com**  
+- ⚡ Fun fact: I love converting ideas into interactive web experiences!
 
 ---
 
-### 🛠️ Languages and Tools I Know
+### 🛠️ Technologies & Tools
 
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -40,20 +45,21 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=biswaranjanbehera006&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=biswaranjanbehera006&theme=tokyonight" alt="GitHub Streak" />
+  <br />
+  <img src="https://streak-stats.demolab.com?user=biswaranjanbehera006&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 ---
 
-### 🧠 Currently Focusing On
-- 🔹 Deep dive into MERN stack development  
-- 🔹 Building real-world full-stack projects  
-- 🔹 Improving UI/UX with **Figma & TailwindCSS**
+### 🧠 Currently Working On
+
+- ✅ Learning deeper MERN stack concepts  
+- ✅ Real-world full-stack projects  
+- ✅ Designing responsive UI with Figma & Tailwind CSS  
 
 ---
 
-### 📫 Let's Connect
+### 🔗 Let's Connect
 
 - 📧 **Email:** biswaranjanbehera006@gmail.com  
 - 🔗 **LinkedIn:** [linkedin.com/in/biswaranjanbehera006](https://www.linkedin.com/in/biswaranjanbehera006/)
