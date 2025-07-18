@@ -25,19 +25,7 @@
 
 ---
 
-## 🖥️ Portfolio
 
-<p align="center">
-  <a href="https://biswa-ranjan-portfolio.vercel.app/" target="_blank">
-    <img src="https://user-images.githubusercontent.com/131255181/279469983-fb8e27ce-4d63-4140-86d6-f40778d1788f.png" alt="Portfolio" width="80%" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://biswa-ranjan-portfolio.vercel.app/" target="_blank">🌐 Visit My Portfolio →</a>
-</p>
-
----
 
 ## 🛠️ Technologies & Tools
 
