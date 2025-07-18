@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Biswa Ranjan Behera</h1>
-<h3 align="center">MERN Stack Developer | Full Stack Enthusiast</h3>
+<h3 align="center">MERN Stack Developer | Full Stack Enthusiast 🚀</h3>
 
 <p align="center">
   <a href="mailto:biswaranjanbehera006@gmail.com">
@@ -7,6 +7,9 @@
   </a>
   <a href="https://www.linkedin.com/in/biswa-ranjan-behera/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://biswa-ranjan-portfolio.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-24292e?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio">
   </a>
 </p>
 
@@ -19,6 +22,20 @@
 - 💬 Ask me about **React, Node.js, MongoDB, JavaScript, Tailwind CSS**
 - 📫 Reach me at: **biswaranjanbehera006@gmail.com**
 - ⚡ Fun fact: I love converting creative ideas into interactive web experiences!
+
+---
+
+## 🖥️ Portfolio
+
+<p align="center">
+  <a href="https://biswa-ranjan-portfolio.vercel.app/" target="_blank">
+    <img src="https://user-images.githubusercontent.com/131255181/279469983-fb8e27ce-4d63-4140-86d6-f40778d1788f.png" alt="Portfolio" width="80%" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://biswa-ranjan-portfolio.vercel.app/" target="_blank">🌐 Visit My Portfolio →</a>
+</p>
 
 ---
 
@@ -70,5 +87,8 @@
   </a>
   <a href="https://www.linkedin.com/in/biswa-ranjan-behera/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://biswa-ranjan-portfolio.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-24292e?style=flat-square&logo=vercel&logoColor=white" />
   </a>
 </p>
