@@ -1,3 +1,5 @@
+
+
 <h1 align="center">Hi 👋, I'm Biswa Ranjan Behera</h1>
 <h3 align="center">MERN Stack Developer | Full Stack Enthusiast 🚀</h3>
 
@@ -44,12 +46,6 @@
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
 </p>
 
----
-
-
-
-![MasterHead](https://camo.githubusercontent.com/4c3fd71b359cd5dfadc21247cde8f16ecbe5d41db8ac79ef28e3091ab02a8bef/68747470733a2f2f6d69722d73332d63646e2d63662e626568616e63652e6e65742f70726f6a6563745f6d6f64756c65732f6d61785f313230302f3831626234623136353638343031392e363430623630333864313333652e676966)
-
 
 ---
 
@@ -58,6 +54,29 @@
 - ✅ Advanced MERN Projects  
 - ✅ Interactive, responsive UIs with **Tailwind CSS + React**  
 - ✅ Real-world full-stack applications
+
+---
+
+## <img src="https://cdn.pixabay.com/animation/2023/06/13/15/13/15-13-13-522_512.gif" width="40"> **GitHub Stats**
+
+<p align="left">
+  <img
+    src="https://github-readme-stats-tau-dusky-17.vercel.app/api?username=biswaranjanbehera006&show_icons=true&theme=github_dark"
+    width="420"
+    alt="GitHub Stats"
+  />
+  <img
+    src="https://github-readme-stats-tau-dusky-17.vercel.app/api/top-langs/?username=biswaranjanbehera006&layout=compact&langs_count=8&theme=github_dark"
+    width="375"
+    alt="Top Languages"
+  />
+</p>
+
+---
+
+## 📈 Contribution Graph
+
+![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=biswaranjanbehera006&theme=github-dark)
 
 ---
 
