@@ -22,7 +22,6 @@
 - 🌱 Currently learning **Advanced MERN Stack Concepts**
 - 👨‍💻 Passionate about **Full Stack Development**
 - 💬 Ask me about **React, Node.js, MongoDB, JavaScript, Tailwind CSS**
-- 📫 Reach me at: **biswaranjanbehera006@gmail.com**
 - ⚡ Fun fact: I love converting creative ideas into interactive web experiences!
 
 ---
